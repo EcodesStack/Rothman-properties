@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import leftarrow from '../assets/left_arrow.svg'
 import rightarrow from '../assets/right_arrow.svg'
-import { assets, projectsData } from '../assets/assets'
+import { projectsData } from '../assets/assets'
+// eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion'
 
 const Projects = () => {
